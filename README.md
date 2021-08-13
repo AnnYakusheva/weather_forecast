@@ -1,3 +1,9 @@
+Описание запуска: 
+
+Ввести название города в поле What city? с большой буквы
+ на английском языке и нажать кнопку "Search" или клавишу enter. 
+
+
 # weather_forecast
 
 ## Project setup
@@ -22,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# weather_forecast" 
